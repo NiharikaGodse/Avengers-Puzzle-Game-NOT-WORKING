@@ -1,0 +1,31 @@
+#myCanvas {
+    background-color: white;
+    border: red;
+    border-width: 5px;
+    border-style: ridge;
+  }
+  
+  .body_background {
+    background-image: url("Background.gif");
+    background-position: center;
+    background-size: cover;
+  }
+
+  #h1{
+    font-family: comic sans ms;
+    background-color:black;
+    margin-left:200px;
+    margin-right:200px;
+    padding:5px;
+    color: white;
+  }
+  
+  #h3{
+    font-family: comic sans ms;
+    background-color:black;
+    margin-left:250px;
+    margin-right:250px;
+    padding:5px;
+    color: white;
+  }
+  
